@@ -1,0 +1,35 @@
+.data-row
+{
+  margin-top: 3%;
+}
+
+form
+{
+  margin-bottom: 3%;
+}
+
+.form-border
+{
+  background-color: #DEF2F1;
+  width: 60%;
+  padding-top: 0.1%;
+  padding-bottom: 2%;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.last-row
+{
+  margin-bottom: 4%;
+}
+
+select
+{
+  width: 50px;
+}
+
+input[type=text],
+input[type=password],
+input[type=email]
+{
+  width: 100%;
+}
